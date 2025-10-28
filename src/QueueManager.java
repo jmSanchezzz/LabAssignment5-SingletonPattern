@@ -57,20 +57,4 @@ public class QueueManager {
         }
         return "Invalid Desk";
     }
-
-    public synchronized String getCentralizedLog() {
-        return "Next Available Number: " + getCurrentQueueNumberFormatted();
-    }
-
-    public synchronized String getOnlineView() {
-        return String.format("Desk 1: %s, Desk 2: %s, Desk 3: %s",
-            getDeskServingNumberFormatted(0),
-            getDeskServingNumberFormatted(1),
-            getDeskServingNumberFormatted(2));
-    }
-
-    public synchronized String resetQueueNumberFormatted(int newNumber) {
-        resetQueueNumber(newNumber);
-        return "Queue reset to " + formatQueueNumber(newNumber) + " successfully.";
-    }
 }
