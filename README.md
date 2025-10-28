@@ -10,3 +10,4 @@ This approach ensures an organized queuing experience for individuals visiting t
 
 ## UML Diagram
 ---
+<img width="2756" height="1708" alt="NLR (18)" src="https://github.com/user-attachments/assets/af277f96-cc4b-4e57-8276-2c4017f8cc0f" />
