@@ -1,5 +1,4 @@
 ## Centralized Queuing System for Pag-IBIG Office
----
 
 The Pag-IBIG Office implements a centralized queuing system to efficiently manage visitors across three help desk stations. Individuals visiting the office obtain a queue number from this centralized system, ensuring an organized and fair service process.
 
