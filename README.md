@@ -8,5 +8,5 @@ Each help desk station includes an option to reset the queue number based on an 
 
 This approach ensures an organized queuing experience for individuals visiting the office and offers the flexibility to handle adjustments as necessary.
 
-##UML Diagram
+## UML Diagram
 ---
